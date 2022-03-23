@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "633060356068",
+    "project_id": "carshop-cfec4",
+    "storage_bucket": "carshop-cfec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633060356068:android:f788993da8cdc78baee1f1",
+        "android_client_info": {
+          "package_name": "com.flutterflow.carshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633060356068-el2b6vrj9dsi0qd7f45bhjfkcoo08sla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.carshop",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "633060356068-ri17rpmrtdbljcbuh6nd7fp77hr4304n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwlWBu3U_7HXpDKlJPajV7ZNvy3jK18Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633060356068-ri17rpmrtdbljcbuh6nd7fp77hr4304n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633060356068-t8oft975bmhffgkfenoa92nagll8fhrg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.carshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633060356068:android:663fcfc59810ecb7aee1f1",
+        "android_client_info": {
+          "package_name": "com.tonchettha.carshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633060356068-tm9ouvb9cqbii1t9hi9slg2epcns2urc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tonchettha.carshop",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "633060356068-ri17rpmrtdbljcbuh6nd7fp77hr4304n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwlWBu3U_7HXpDKlJPajV7ZNvy3jK18Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633060356068-ri17rpmrtdbljcbuh6nd7fp77hr4304n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633060356068-t8oft975bmhffgkfenoa92nagll8fhrg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.carshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
